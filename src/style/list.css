@@ -1,0 +1,12 @@
+.list-container-body{
+    border-radius: 25px;
+    background-color: #2E8C71;
+    margin: 5px;
+    /* width: 100%; */
+}
+.list-container-box{
+    justify-content: center;
+    align-content: space-between;
+    padding: 1%;
+    display: flex;
+}

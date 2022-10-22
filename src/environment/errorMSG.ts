@@ -1,0 +1,1 @@
+export const errorGetList = process.env.idioma == "ENG" ?'PokemonList can`t be reach' :'La lista de pokemones no se pudo obtener'

@@ -1,0 +1,119 @@
+.habsholder-body{
+    width: 60%;
+    margin: 1% 2%;
+}
+.habsholder-box{
+    margin: .5rem;
+}
+.habsholder-title1{
+    background-color: #60A6B0;
+    margin: 0 5%;
+    padding: 0 2%;
+    width: 35%;
+    font-size: 1.75rem;
+    color: white;
+    font-weight: bolder;
+    -webkit-text-stroke: 1px grey;
+}
+.habsholder-box-little{
+    border-radius: 20px;
+    background-color: white;
+    width: 100%;
+}
+.habsholder-box-little-header{
+    border-radius: 20px 20px 0 0;
+    padding: 1% 5%;
+    background-color: #9BDCA2;
+}
+.habsholder-box-little-header-text{
+    margin: 0;
+    font-size: 2rem;
+    color: white;
+    -webkit-text-stroke: 2px grey;
+    font-weight: bolder;
+}
+.habsholder-box-little-body{
+    padding: 4%;
+    display: flex;
+}
+.habsholder-box-little-body-text{
+    font-size: 2rem;
+    font-weight: bolder;
+    /* border: 2px solid; */
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 0 0 4%;
+    text-transform: uppercase;
+    color: white;
+    -webkit-text-stroke: 2px grey;
+    box-shadow: 2px 2px 5px grey;
+}
+.habsholder-box-little-header-text-hab{
+    margin: 0;
+    font-size: 2rem;
+    color: white;
+    -webkit-text-stroke: 1px grey;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.habsholder-box-little-header-habs{
+    border-radius: 20px;
+    padding: 1% 5%;
+    background-color: #9BDCA2;
+    margin-bottom: 3%;
+}
+
+.ground{
+    background-color: #D1B055;
+}
+.rock{
+    background-color: #BAA457;
+}
+.fire{
+    background-color: #C82003;
+}
+.psychic{
+    background-color: #E74A81;
+}
+.water{
+    background-color: #3394F0;
+}
+.electric{
+    background-color: #F8BF28;
+}
+.steel{
+    background-color: #B5B5C3;
+}
+.flying{
+    background-color: #92A3EF;
+}
+.normal{
+    background-color: #C5C0B4;
+}
+.ice{
+    background-color: #99E3FA;
+}
+.poison{
+    background-color: #944894;
+}
+.ghost{
+    background-color: #4B4A95;
+}
+.dark{
+    background-color: #543D30;
+}
+.bug{
+    background-color: #8B990E;
+}
+.fairy{
+    background-color: #FAD7F8;
+}
+.dragon{
+    background-color: #473B86;
+}
+.fighting{
+    background-color: #763520;
+}
+.grass{
+    background-color: #73C336;
+}
